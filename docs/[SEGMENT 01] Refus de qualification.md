@@ -1,4 +1,4 @@
-[SEGMENT 00] - Refus de qualification
+[SEGMENT 01] - Refus de qualification
 
 ce qui est appris quotidiennement n’est ni neutre ni orienté vers la compréhension. l’apprentissage institutionnel privilégie la restitution formelle au détriment de capacités qui introduisent de l’instabilité dans un système, recherche autonome, corrélation non dirigée, raisonnement systémique. le modèle dominant suppose qu’il est nécessaire de connaître un fonctionnement, de le comprendre selon un cadre prédéfini, puis de le reproduire fidèlement. la question de la finalité est rarement posée. non par oubli, mais parce qu’elle rend visible ce que le système préfère maintenir implicite.
 
