@@ -7,3 +7,6 @@ La majorité des usages échouent non par manque de capacité du modèle, mais p
 L'humain conserve la créativité non dirigée, la corrélation à court terme, la capacité de rupture. Le LLM traite le volume, maintient la cohérence sans affect, révèle les hypothèses implicites que la demande n'a pas su formuler. L'hallucination n'est pas un défaut. C'est un signal de localisation : ce qui n'est pas encore compris devient visible par l'écart qu'il produit.
 
 Ce dépôt est la couche transversale de l'ensemble du corpus. SAINTS, SSCG, T512, OSINT Graph en sont les artefacts directs. Il ne documente pas une méthode finalisée. Il documente les conditions dans lesquelles ces projets ont été rendus possibles.
+
+
+https://doi.org/10.5281/zenodo.20680730
