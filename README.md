@@ -9,4 +9,4 @@ L'humain conserve la créativité non dirigée, la corrélation à court terme, 
 Ce dépôt est la couche transversale de l'ensemble du corpus. SAINTS, SSCG, T512, OSINT Graph en sont les artefacts directs. Il ne documente pas une méthode finalisée. Il documente les conditions dans lesquelles ces projets ont été rendus possibles.
 
 
-https://doi.org/10.5281/zenodo.20680730
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20680730.svg)](https://doi.org/10.5281/zenodo.20680730)
